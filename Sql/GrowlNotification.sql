@@ -6,7 +6,7 @@
 -- 
 -- NOTE!!! do not forget to change value for YOUR_DATABASE 
 --
-USE YOUR_DATABASE
+AXNY
 GO
 SET ANSI_NULLS ON
 GO
